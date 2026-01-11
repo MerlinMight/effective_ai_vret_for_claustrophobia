@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f7bbe6ba56159ed4ab4b97603895fe84
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - videoPlayer: {fileID: 1800485860872819689, guid: c355bb84c9688be4099d9157a89bb3cb, type: 3}
+  - skyboxMaterial: {fileID: 2100000, guid: 06f8e8ff81dfea140a767f348bf10fcb, type: 2}
+  - calmScenario: {fileID: 32900000, guid: eccc48f3e99136d4e83d68516939ed6a, type: 3}
+  - headTransform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
