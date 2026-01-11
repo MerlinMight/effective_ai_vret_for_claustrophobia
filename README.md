@@ -109,3 +109,8 @@ These reports help users and therapists track progress, identify stress triggers
 - Cloud-based report storage
 
 ---
+### Note
+This project is intended for academic purposes.  
+Due to dependencies on VR hardware and paid APIs, full execution may require additional configuration.
+
+---
