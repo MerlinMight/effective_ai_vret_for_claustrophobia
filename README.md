@@ -1,7 +1,7 @@
-# AI-Powered Virtual Reality Exposure Therapy (VRET) for Claustrophobia
+# AI-based Virtual Reality Exposure Therapy (VRET) for Claustrophobia
 
 ## 📌 Overview
-Claustrophobia is an anxiety disorder characterized by an intense fear of enclosed spaces. Traditional exposure therapy can be difficult due to accessibility limitations, discomfort, and lack of personalization. This project presents an **AI-powered Virtual Reality Exposure Therapy (VRET) system** designed to help individuals gradually confront claustrophobic environments in a safe, controlled, and adaptive virtual setting.
+Claustrophobia is an anxiety disorder characterized by an intense fear of enclosed spaces. Traditional exposure therapy can be difficult due to accessibility limitations, discomfort, and lack of personalization. This project presents an **AI-baseded Virtual Reality Exposure Therapy (VRET) system** designed to help individuals gradually confront claustrophobic environments in a safe, controlled, and adaptive virtual setting.
 
 The system combines **AI-generated immersive environments**, **real-time stress monitoring**, and **interactive user controls** to deliver a personalized therapeutic experience.
 
